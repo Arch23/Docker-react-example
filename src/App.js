@@ -11,7 +11,7 @@ function App() {
         </p>
         <p>
           Hello there!!!
-          It's alive, again?
+          Uploading with GitHub Actions now!
         </p>
         <a
           className="App-link"
